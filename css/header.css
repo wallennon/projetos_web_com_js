@@ -17,7 +17,7 @@
     height: 2rem;
     background-repeat: no-repeat;
     background-size: contain;
-    background-image: url('/assets/img/header.svg');
+    background-image: url('/img/header.svg');
 }
 
 .header .photo {
@@ -57,22 +57,22 @@
 }
 
 .data .job::before {
-    background-image: url('/assets/img/Grouppeople.svg');
+    background-image: url('/img/Grouppeople.svg');
     background-repeat: no-repeat;
 }
 
 .data .location::before {
-    background-image: url('/assets/img/Vectormap.svg');
+    background-image: url('/img/Vectormap.svg');
     background-repeat: no-repeat;
 }
 
 .data .email::before {
-    background-image: url('/assets/img/Groupemail.svg');
+    background-image: url('/img/Groupemail.svg');
     background-repeat: no-repeat;
 }
 
 .data .phone::before {
-    background-image: url('/assets/img/Vectorphone.svg');
+    background-image: url('/img/Vectorphone.svg');
     background-repeat: no-repeat;
 }
 

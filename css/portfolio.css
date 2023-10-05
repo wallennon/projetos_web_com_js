@@ -35,7 +35,7 @@
     padding: 0 .25rem;
     background-repeat: no-repeat;
     background-size: contain;
-    background-image: url('/assets/img/github.svg');
+    background-image: url('/img/github.svg');
     margin-right: .5rem;
 }
 
@@ -48,7 +48,7 @@
     padding: 0 .25rem;
     background-repeat: no-repeat;
     background-size: contain;
-    background-image: url('/assets/img/linkedin.svg');
+    background-image: url('/img/linkedin.svg');
     margin-right: .5rem;
 }
 
@@ -61,6 +61,6 @@
     padding: 0 .25rem;
     background-repeat: no-repeat;
     background-size: contain;
-    background-image: url('/assets/img/instagram.svg');
+    background-image: url('/img/instagram.svg');
     margin-right: .5rem;
 }
